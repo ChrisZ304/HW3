@@ -33,4 +33,4 @@ This assignment was the most challenging one I've experienced so far. I spent mo
 
 ## Final Publication
 
-https://chrisz304.github.io/HW3-Password-Generator/
+https://chrisz304.github.io/HW3-password-generator/
