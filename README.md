@@ -31,6 +31,6 @@ SO THAT all the characters could be copied with the click of a single button for
 This assignment was the most challenging one I've experienced so far. I spent more time and effort on it than any of my prior assignments and had to learn much of the proper structure and syntax by viewing other online sources in addition to what we learned in class. I did a lot of comparing and contrasting various methods and styles of similar apps I researched.
 
 
-## Final Publication
+## Deployed
 
 https://chrisz304.github.io/HW3-password-generator/
